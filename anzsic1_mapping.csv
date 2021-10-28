@@ -1,0 +1,87 @@
+﻿anzsic2_code ,anzsic1_code,anzsic1_desc
+01,A,"Agriculture, Forestry and Fishing"
+02,A,"Agriculture, Forestry and Fishing"
+03,A,"Agriculture, Forestry and Fishing"
+04,A,"Agriculture, Forestry and Fishing"
+05,A,"Agriculture, Forestry and Fishing"
+06,B,Mining
+07,B,Mining
+08,B,Mining
+09,B,Mining
+10,B,Mining
+11,C,Manufacturing
+12,C,Manufacturing
+13,C,Manufacturing
+14,C,Manufacturing
+15,C,Manufacturing
+16,C,Manufacturing
+17,C,Manufacturing
+18,C,Manufacturing
+19,C,Manufacturing
+20,C,Manufacturing
+21,C,Manufacturing
+22,C,Manufacturing
+23,C,Manufacturing
+24,C,Manufacturing
+25,C,Manufacturing
+26,D,"Electricity, Gas, Water and Waste Services"
+27,D,"Electricity, Gas, Water and Waste Services"
+28,D,"Electricity, Gas, Water and Waste Services"
+29,D,"Electricity, Gas, Water and Waste Services"
+30,E,Construction
+31,E,Construction
+32,E,Construction
+33,F,Wholesale Trade
+34,F,Wholesale Trade
+35,F,Wholesale Trade
+36,F,Wholesale Trade
+37,F,Wholesale Trade
+38,F,Wholesale Trade
+39,G,Retail Trade
+40,G,Retail Trade
+41,G,Retail Trade
+42,G,Retail Trade
+43,G,Retail Trade
+44,H,Accomodation and Food Services
+45,H,Accomodation and Food Services
+46,I,"Transport, Postal and Warehousing"
+47,I,"Transport, Postal and Warehousing"
+48,I,"Transport, Postal and Warehousing"
+49,I,"Transport, Postal and Warehousing"
+50,I,"Transport, Postal and Warehousing"
+51,I,"Transport, Postal and Warehousing"
+52,I,"Transport, Postal and Warehousing"
+53,I,"Transport, Postal and Warehousing"
+54,J,Information Media and Telecommunications
+55,J,Information Media and Telecommunications
+56,J,Information Media and Telecommunications
+57,J,Information Media and Telecommunications
+58,J,Information Media and Telecommunications
+59,J,Information Media and Telecommunications
+60,J,Information Media and Telecommunications
+62,K,Financial and Insurance Services
+63,K,Financial and Insurance Services
+64,K,Financial and Insurance Services
+66,L,"Rental, Hiring and Real Estate Services"
+67,L,"Rental, Hiring and Real Estate Services"
+69,M,"Professional, Scientific and Technical Services"
+70,M,"Professional, Scientific and Technical Services"
+72,N,Administrative and Support Services
+73,N,Administrative and Support Services
+75,O,Public Administration and Safety
+76,O,Public Administration and Safety
+77,O,Public Administration and Safety
+80,P,Education and Training
+81,P,Education and Training
+82,P,Education and Training
+84,Q,Health Care and Social Assistance
+85,Q,Health Care and Social Assistance
+86,Q,Health Care and Social Assistance
+87,Q,Health Care and Social Assistance
+89,R,Arts and Recreation Services
+90,R,Arts and Recreation Services
+91,R,Arts and Recreation Services
+92,R,Arts and Recreation Services
+94,S,Other Services
+95,S,Other Services
+96,S,Other Services
